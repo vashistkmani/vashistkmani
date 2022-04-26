@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vashistkmani
+- 👋 Hi, I’m V K Mani
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
