@@ -1,7 +1,7 @@
-- 👋 Hi, I’m V K Mani
+- 👋 Hi, I’m Vashist Kumar Mani
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me @vashistkmani
 
 <!---
