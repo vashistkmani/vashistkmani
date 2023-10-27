@@ -1,8 +1,8 @@
 <h1 align="center">Vashist Kumar Mani</h1>
-<h3 align="center">Node.js Developer</h3>
+<h3 align="center">Nodejs Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vashistkumarmani">
+  <a href="https://www.linkedin.com/in/vashistkmani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vashistkumarmani@gmail.com">
@@ -58,4 +58,4 @@
 - Best New Joinee of Second Quarter 2022 at Rampwin Technology.
 - Best Employee of the Month January 2023 at Rampwin Technology.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vashistkumarmani) or drop me an [email](mailto:vashistkumarmani@gmail.com) if you'd like to discuss collaboration or have any questions. Let's build amazing things together! 👨‍💻
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vashistkmani) or drop me an [email](mailto:vashistkumarmani@gmail.com) if you'd like to discuss collaboration or have any questions. Let's build amazing things together! 👨‍💻
