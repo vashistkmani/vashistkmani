@@ -1,18 +1,4 @@
-<h1 align="center">Vashist Kumar Mani</h1>
-<h3 align="center">Nodejs Developer</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vashistkmani">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vashistkumarmani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-👋 Hi, I'm Vashist Kumar Mani, a Node.js Developer with a passion for building scalable web applications and real-time communication systems. Here's a brief overview of my professional journey:
+👋 Hi, I'm a Node.js Developer with a passion for building scalable web applications and real-time communication systems. Here's a brief overview of my professional journey:
 
 ### Experience
 
@@ -25,7 +11,7 @@
 **Rampwin Technology**
 **Node.js Developer** | June 2022 - June 2023
 - Worked on a SAAS application for sales, support, and marketing.
-- Integrated third-party APIs, payment gateways, and used MongoDB, Redis, and Socket.io.
+- Integrated third-party APIs, and payment gateways, and used MongoDB, Redis, and Socket.io.
 
 #### IMG Global Infotech (Internship)
 **Node.js Developer** | Feb 2022 - June 2022
