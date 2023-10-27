@@ -2,19 +2,19 @@
 
 ### Experience
 
-#### Ahead Websoft Technology
-**Node.js Developer** | June 2023 - Oct 2023
+**Ahead Websoft Technology
+**Backend Developer** | June 2023 - Oct 2023
 - Developed a custom Chat application for users, enterprises, and communities.
 - Expanded administrative panel capabilities and developed a robust API for real-time messaging.
 - Optimized real-time communication using Socket.io.
 
 **Rampwin Technology**
-**Node.js Developer** | June 2022 - June 2023
+**Backend Developer** | June 2022 - June 2023
 - Worked on a SAAS application for sales, support, and marketing.
 - Integrated third-party APIs, and payment gateways, and used MongoDB, Redis, and Socket.io.
 
-#### IMG Global Infotech (Internship)
-**Node.js Developer** | Feb 2022 - June 2022
+**IMG Global Infotech (Internship)
+**Nodejs Developer** | Feb 2022 - June 2022
 - Worked on e-commerce, examination portal, and sports fantasy app projects.
 - Developed APIs, integrated third-party APIs, and payment gateways.
 
