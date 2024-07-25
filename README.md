@@ -1,4 +1,4 @@
-👋 Hi, I'm a Node.js Developer with a passion for building scalable web applications and real-time communication systems. Here's a brief overview of my professional journey:
+👋 Hi, I'm a Full Stack Developer with a passion for building scalable web applications and real-time communication systems. Here's a brief overview of my professional journey:
 
 ### Experience
 
